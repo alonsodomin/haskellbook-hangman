@@ -93,3 +93,7 @@ build
 # Kamon native libraries            #
 #####################################
 native/
+
+# Haskell Development #
+#######################
+.stack-work
